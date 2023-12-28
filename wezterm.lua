@@ -21,7 +21,7 @@ config.colors = {
 }
 config.use_fancy_tab_bar = false
 config.enable_tab_bar = false
-config.window_background_opacity = 0.75
+config.window_background_opacity = 0.85
 -- config.window_background_opacity = 1.0
 config.text_background_opacity = 0.9
 config.window_close_confirmation = "AlwaysPrompt"
